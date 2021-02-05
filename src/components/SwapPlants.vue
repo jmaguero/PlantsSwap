@@ -10,6 +10,7 @@
   </div>    
     
   <div class="w-3/12 m-auto">
+  <div class="form-group">"</div>
         <form class="flex flex-col">
         <label for="pname">Plant name:</label>
         <input type="text" name="pname" id="" placeholder="Does it has one?">
