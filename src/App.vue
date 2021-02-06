@@ -1,10 +1,10 @@
 <template>
     <Header/>
-    <SwapPlants/>
+       <SwapPlants />
 </template>
 
 <script setup>
-import SwapPlants from './components/SwapPlants.vue'
+import SwapPlants from './components/SwapPlants.vue' 
 import Header from './components/Header.vue';
 </script>
 
